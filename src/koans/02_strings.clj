@@ -1,4 +1,4 @@
-(ns koans.02-strings
+le(ns koans.02-strings
   (:require [koan-engine.core :refer :all]
             [clojure.string :as string]))
 
